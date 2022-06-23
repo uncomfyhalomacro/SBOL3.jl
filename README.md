@@ -7,6 +7,6 @@
 
 ---
 
-Native [The Synthetic Biology Open Language](https://sbolstandard.org/) 3.0 implementation in [Julia](https://julialang.org)
+Native [Synthetic Biology Open Language](https://sbolstandard.org/) 3.0 implementation in [Julia](https://julialang.org)
 
 **Currently a work in progress**
