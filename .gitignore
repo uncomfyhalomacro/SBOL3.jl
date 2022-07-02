@@ -1,1 +1,6 @@
 /docs/build/
+
+# Tex related stuff
+*.aux
+*.toc
+*.log
