@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you need to cite SBOL3.jl, this metadata is the paper that introduces the current"
+repository-code: "https://github.com/uncomfyhalomacro/SBOL3.jl"
+authors:
+  - family-names: "Estela"
+    given-names: "Soc Virnyl"
+title: "SBOL3.jl - A native Julia implementation of the SBOL3 specification"
+version: 0.1.0
+abstract: "In this paper, we created a native Julia implementation for the Synthetic Biology Open Language Specification specifically, SBOL version 3.0.1"
