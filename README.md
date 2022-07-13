@@ -10,3 +10,6 @@
 Native [Synthetic Biology Open Language](https://sbolstandard.org/) 3.0 implementation in [Julia](https://julialang.org)
 
 **Currently a work in progress**
+
+# UPDATE
+Project moved to https://codeberg.org/uncomfyhalomacro/SBOL3.jl
